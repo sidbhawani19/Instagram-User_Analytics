@@ -10,7 +10,7 @@
 <h1>Instagram User Analytics</h1>
 
 <p>
-  Consider yourself as a data analyst at Instagram, the goal of this project is to extract meaningful insights from user data using SQL and MySQL Workbench.
+  Consider yourself as a data analyst at Instagram. The goal of this project is to extract meaningful insights from user data using SQL and MySQL Workbench.
   These insights will help the product team make informed decisions about the future direction of the Instagram app.
 </p>
 
